@@ -1,0 +1,8 @@
+Sieppari
+
+- Asensin Wiresharkin
+En ole aikaisemmin käyttänyt wiresharkkia joten toistaiseksi informaatio mitä sain irti sen käyttämisestä oin melko rajattua.
+Suurimmaksi osaksi kaikki liikenne lähtee omasta osoitteestani sender reportteina.
+Liikenteen IP osoitteet pystyy näkemään wiresharkilla helposti.
+Näissä valinnoissa kumminkin näkee että mistä portista jokainen lähetys on tullut ja mistä portista se lähti.
+Wireshark myös kirjaa jokaisen paketin lähetyksen ja vastaanoton keston
